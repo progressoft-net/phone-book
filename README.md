@@ -18,7 +18,7 @@ Write a .Net Web application to manage the business cards information in phone b
     - Through UI.
     - Imported from xml file. (sample file BusinessCard.xml)
     - Imported from csv file. (sample file BusinessCard.csv)
-    - (OPTIONAL) Imported from QR code image -without photo-. (sample image BusinessCard.jpg).
+    - (OPTIONAL) Imported from QR code image -without photo-. (sample image BusinessCard.png).
   * After importing a file, the user shall be able to view the business card information before submitting the add request.
   * Photo is encoded as base64 string in all formats.
   
