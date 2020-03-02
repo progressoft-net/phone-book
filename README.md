@@ -29,7 +29,7 @@ Write a .Net Web application to manage the business cards information in phone b
   
 4. Writing unit tests is highly recommended and is a plus.
 
-5.Your deliverable should include:
+5. Your deliverable should include:
   * The source code.
   * ReadMe file for the IIS web application configuration (if needed).
   * Access DB file.
