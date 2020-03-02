@@ -1,6 +1,6 @@
 # Assignment description
 
-# Phone Book Assignment
+# Phone Book
 
 Write a .Net Web application to manage the business cards information in phone book access database, having the following requirements:
 
