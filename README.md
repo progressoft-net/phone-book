@@ -24,8 +24,8 @@ Write a .Net Web application to manage the business cards information in phone b
   
 3. The second page shall list all stored business card information.
   * The user shall be able to delete any selected business card.
-  * (OPTIONAL) The user shall be able to filter the results according to (name, DOB, phone, gender, or Email)
   * The user shall be able to export the selected business card to (xml, csv).
+  * (OPTIONAL) The user shall be able to filter the results according to (name, DOB, phone, gender, or Email)
   
 4. Writing unit tests is highly recommended and is a plus.
 
